@@ -1,0 +1,18 @@
+List<Map<String,String>>data=[
+{ 'image':'image/Untitled design (26) (1).png',
+'title':'Cool Berry',
+  'price':'₹ 200',
+},
+{ 'image':'image/Untitled design (29).png',
+'title':'Chill Cherry',
+  'price':'₹ 150',
+},
+{ 'image':'image/Untitled design (30) (1).png',
+'title':'Pin Pineapple',
+  'price':'₹ 200',
+},
+{ 'image':'image/Untitled design (28) (1).png',
+'title':'Pin Pineapple',
+  'price':'₹ 150',
+},
+];
